@@ -9,7 +9,7 @@ $n2 = 0;
 $resultado;
 $rdo;
 
-const ERROR_EMPTY = "Favor Digitar todos os campos";
+const ERROR_EMPTY = "Favor Digitar todos os camposS";
 const NON_NUMERIC = "Favor digitar apenas numeros";
 
         $chkSomar = "";
